@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @meggouriIsmail
-- 👀 I’m interested in javascript, nodeJs ...
+- 👀 I’m interested in java, springboot, angular, javascript, typescript, nodeJs ...
 - 🌱 I’m currently learning computer science
 - 📫 How to reach me meggouri.ismail@gmail.com
 
