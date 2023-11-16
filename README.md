@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @meggouriIsmail
 - 👀 I’m interested in java, springboot, angular, javascript, typescript, nodeJs ...
-- 🌱 I’m currently learning computer science
+- 🌱 I’m currently looking for an internship as a java full stack developer.
 - 📫 How to reach me meggouri.ismail@gmail.com
 
 <!---
